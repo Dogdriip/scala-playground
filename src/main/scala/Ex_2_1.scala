@@ -3,7 +3,7 @@ object Ex_2_1 {
     var a = "Variable."
     val b = "Final variable."
     a = "Can it be mutable?"
-    b = "Can it be mutable?"
+    // b = "Can it be mutable?"
     println(a)
   }
 }

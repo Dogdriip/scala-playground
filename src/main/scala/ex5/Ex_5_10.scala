@@ -1,7 +1,12 @@
+package ex5
+
 object Ex_5_10 {
+
   class SomeClass {
     def apply(m: Int): Int = method(m)
+
     def method(i: Int): Int = i + i
+
     def method2(s: String): String = s
   }
 

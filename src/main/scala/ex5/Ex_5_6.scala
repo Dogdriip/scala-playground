@@ -1,3 +1,5 @@
+package ex5
+
 object Ex_5_6 {
   def main(args: Array[String]): Unit = {
     val g = f _

@@ -1,3 +1,5 @@
+package ex4
+
 object Ex_4_4 {
   def main(args: Array[String]): Unit = {
     val richUser = new PaidUser("고말자", 20, 'M', 10000)

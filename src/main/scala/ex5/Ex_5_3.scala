@@ -1,4 +1,6 @@
-object Ex_5_4 {
+package ex5
+
+object Ex_5_3 {
   def main(args: Array[String]): Unit = {
     dropship(people(5))
   }
@@ -8,7 +10,7 @@ object Ex_5_4 {
     n
   }
 
-  def dropship(n: => Int): Unit = {
+  def dropship(n: Int): Unit = {
     println("드랍십 준비합니다.")
     println(n + "명 탑승했습니다.")
   }

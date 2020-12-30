@@ -1,3 +1,5 @@
+package ex5
+
 object Ex_5_2 {
   def main(args: Array[String]): Unit = {
     val result = sum(1, 2)

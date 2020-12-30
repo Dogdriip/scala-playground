@@ -1,3 +1,5 @@
+package ex4
+
 object Ex_4_5 {
   def main(args: Array[String]): Unit = {
     val flyingWhale = new Animal

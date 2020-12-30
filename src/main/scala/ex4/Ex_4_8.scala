@@ -1,3 +1,5 @@
+package ex4
+
 object Ex_4_8 {
   def main(args: Array[String]): Unit = {
     val robot = new Mazinga

@@ -1,3 +1,5 @@
+package ex5
+
 object Ex_5_9 {
   def main(args: Array[String]): Unit = {
     println("기본값은 " + default())

@@ -1,3 +1,5 @@
+package ex5
+
 object Ex_5_7 {
   def main(args: Array[String]): Unit = {
     val result = calc(x => x * x, 2, 5)

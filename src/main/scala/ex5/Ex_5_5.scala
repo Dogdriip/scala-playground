@@ -1,3 +1,5 @@
+package ex5
+
 object Ex_5_5 {
   def main(args: Array[String]): Unit = {
     val thisYear = 2020
